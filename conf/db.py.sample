@@ -1,0 +1,18 @@
+# データベースの定義
+databases = {
+    # ローカル環境
+    "test": {
+        "host": "",
+        "db": "",
+        "user": "",
+        "password": "",
+    },
+    # 本番環境
+    "master": {
+        "host": "",
+        "db": "",
+        "user": "",
+        "password": "",
+    }
+}
+
